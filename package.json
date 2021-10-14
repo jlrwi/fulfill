@@ -1,0 +1,12 @@
+{
+  "name": "@jlrwi/fulfill",
+  "version": "1.0.0",
+  "description": "Douglas Crockford's string interpolator",
+  "main": "./fulfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas Crockford",
+  "license": "ISC",
+  "type": "module"
+}
